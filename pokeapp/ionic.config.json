@@ -1,0 +1,7 @@
+{
+  "name": "prjPokedexApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
